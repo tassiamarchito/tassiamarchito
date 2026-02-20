@@ -34,9 +34,9 @@ Professional with a solid background in technology and data, I've dedicated my c
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Insert your Link Here]
-- **Tableau Public:** [Insert your Link Here]
-- **Email:** [Your Professional Email]
+- **LinkedIn:** [https://www.linkedin.com/in/tassiamarchito/]
+- **Tableau Public:** [Under development. Available soon!]
+- **Email:** [tassia.marchito@gmail.com]
 
 ---
 *“In God we trust, all others must bring data.” – W. Edwards Deming*
