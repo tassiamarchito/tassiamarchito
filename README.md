@@ -1,6 +1,6 @@
 # Hi, I'm Tássia Marchito 👋
 
-### 📊 Data Specialist | Analytics Engineering | BI Architect
+### 📊 Data Team Lead | Data Specialist | Analytics Engineering | BI Architect
 *Bridging the gap between raw data and business decisions.*
 
 ---
