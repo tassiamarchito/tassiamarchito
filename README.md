@@ -1,42 +1,62 @@
 # Hi, I'm Tássia Marchito 👋
 
 ### 📊 Data Team Lead | Data Specialist | Analytics Engineering | BI Architect
-*Bridging the gap between raw data and business decisions.*
+*Bridging the gap between raw data and business decisions* and **building high-performance, governed, and lean data ecosystems.**
 
 ---
 
 ## 📖 About Me
-Professional with a solid background in technology and data, I've dedicated my career to building efficient data ecosystems. My journey is driven by a passion for solving complex problems through logic and visualization. I believe that data is only as good as the decisions it enables, which is why I focus on creating high-performance models and intuitive dashboards.
+Professional with a solid background in technology and data engineering, specializing in the **Modern Data Stack**. My approach is rooted in **Lean Philosophy**: eliminating waste in data pipelines, optimizing compute costs, and ensuring that every bit of data serves a clear business purpose.
 
-**Currently specializing in:**
-- ☁️ Modern Data Stack (Databricks & Lakehouse Architecture)
-- 📈 Advanced Visualization (Power BI & Tableau)
-- 🛠️ Data Engineering with Python and SQL
+I don't just build pipelines; I architect **trustworthy data assets**. My focus lies in the intersection of **Lakehouse Architecture**, **Rigorous Governance**, and **Data Observability**, ensuring that stakeholders have access to reliable, sub-second performance insights.
+
+---
+
+## 🏗️ Technical Philosophy
+- **Lean Data Engineering:** Streamlined Medallion architectures that minimize redundancy and maximize processing efficiency.
+- **Observability & QA:** Implementation of automated "Quality Gates" and proactive monitoring to ensure 100% data reliability.
+- **Governance-as-Code:** Utilizing **Unity Catalog** to enforce security, lineage, and business glossaries at scale.
+- **Clean Code & Optimization:** Expert in PySpark/SQL optimization (Z-Order, Liquid Clustering, Partitioning) and professional Git Flow.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Data Visualization:** `Power BI` | `Tableau` | `Databricks AI/BI` | `Looker`
+**Data Engine & Cloud:** `Databricks (Lakehouse)` | `PySpark` | `SQL (Expert)` | `Azure` | `dbt`
 
-**Engineering & Cloud:** `SQL (Advanced)` | `Python (PySpark)` | `Databricks` | `Azure` | `dbt`
+**Visualization & BI:** `Databricks AI/BI` | `Power BI` | `Tableau` | `Data Storytelling`
 
-**Core Competencies:** `Star Schema Modeling` | `ETL/ELT Pipelines` | `Data Storytelling` | `Governance`
+**Architecture & Governance:** `Unity Catalog` | `Medallion Architecture` | `Star Schema` | `OBT` | `Data Quality Frameworks`
 
 ---
 
-## 🚀 Key Projects
-*I'm currently documenting my main projects. Stay tuned for the updates below:*
+## 🌟 Featured Project
 
-- **[Project Name 1]** - Short one-line description of the solution.
-- **[Project Name 2]** - Short one-line description of the solution.
+### [🚚 Lean Logistics: End-to-End Medallion Pipeline](https://github.com/tassiamarchito/tm-logistics-medallion-pipeline)
+**Keywords:** *Unity Catalog, Data Observability, Lean Architecture, PySpark*
+
+A production-grade Lakehouse implementation using the Olist dataset.
+- **Impact:** Resolved critical grain explosion issues (7k+ duplicates) and achieved **99.7%+ spatial accuracy**.
+- **Governance:** Full implementation of a 3-level namespace with automated QA Gates and business glossary.
+- **Efficiency:** Optimized Star Schema and OBT (One Big Table) with **Z-ORDER** for sub-second BI performance.
+
+---
+
+## 📈 Expert Domains
+- **Supply Chain & Logistics Analytics:** Lead Time, SLA Performance, and Freight Optimization.
+- **Financial Reconciliation:** Revenue integrity and payment method analysis.
+- **Strategic Leadership:** Bridging the gap between technical engineering and C-level decision-making.
 
 ---
 
 ## 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/tassiamarchito/]
-- **Tableau Public:** [Under development. Available soon!]
-- **Email:** [tassia.marchito@gmail.com]
+- **Email:** tassia.marchito@gmail.com
+- **Portfolio:** *Stay tuned for more Lakehouse and BI deep dives.*
 
 ---
+
+> *“Data is only as good as the decisions it enables. \
+My mission is to make those decisions effortless through reliable engineering.” – Tássia Marchito*
+
 *“In God we trust, all others must bring data.” – W. Edwards Deming*
