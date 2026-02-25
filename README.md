@@ -50,9 +50,9 @@ A production-grade Lakehouse implementation using the Olist dataset.
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/tassiamarchito/]
+- **LinkedIn:** [linkedin.com/in/tassiamarchito](https://www.linkedin.com/in/tassiamarchito/)
+- **Tableau Public:** [public.tableau.com/app/profile/t.ssia.marchito](https://public.tableau.com/app/profile/t.ssia.marchito/) 📊 *(Interactive BI Portfolio)*
 - **Email:** tassia.marchito@gmail.com
-- **Portfolio:** *Stay tuned for more Lakehouse and BI deep dives.*
 
 ---
 
