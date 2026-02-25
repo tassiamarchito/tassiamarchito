@@ -13,10 +13,10 @@ I don't just build pipelines; I architect **trustworthy data assets**. My focus 
 ---
 
 ## 🏗️ Technical Philosophy
-- **Lean Data Engineering:** Streamlined Medallion architectures that minimize redundancy and maximize processing efficiency.
-- **Observability & QA:** Implementation of automated "Quality Gates" and proactive monitoring to ensure 100% data reliability.
+- **Lean Data Engineering:** Streamlined Medallion architectures that minimize redundancy and **optimize cloud compute costs**.
+- **Observability & QA:** Implementation of proactive "Quality Gates" to prevent 'garbage in, garbage out' and ensure 100% data reliability.
 - **Governance-as-Code:** Utilizing **Unity Catalog** to enforce security, lineage, and business glossaries at scale.
-- **Clean Code & Optimization:** Expert in PySpark/SQL optimization (Z-Order, Liquid Clustering, Partitioning) and professional Git Flow.
+- **Performance Tuning:** Expert in PySpark/SQL optimization (**Z-Order, Liquid Clustering, Partitioning**) to ensure sub-second latency in BI tools.
 
 ---
 
@@ -24,7 +24,7 @@ I don't just build pipelines; I architect **trustworthy data assets**. My focus 
 
 **Data Engine & Cloud:** `Databricks (Lakehouse)` | `PySpark` | `SQL (Expert)` | `Azure` | `dbt`
 
-**Visualization & BI:** `Databricks AI/BI` | `Power BI` | `Tableau` | `Data Storytelling`
+**Visualization & BI:** `Databricks AI/BI` | `Tableau` | `Power BI` | `Data Storytelling`
 
 **Architecture & Governance:** `Unity Catalog` | `Medallion Architecture` | `Star Schema` | `OBT` | `Data Quality Frameworks`
 
